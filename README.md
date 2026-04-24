@@ -13,7 +13,7 @@ goo
 3. Scroll down to **Workflow permissions**
 4. Select **Read and write permissions** and click **Save**
 
-That's it — no tokens or secrets needed.
+That's it — no tokens or secrets needed.ccc
 
 ---ffff
 
