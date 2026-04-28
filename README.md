@@ -10,7 +10,7 @@ A GitHub Actions workflow that lets you download files into your repository just
 
 0. Fork this repodd
 1. Go to your repository on GitHub
-2. Click **Settings** → **Actions** → **General**
+2. Click **Settings** → **Actions** → **General**dd
 3. Scroll down to **Workflow permissions**
 4. Select **Read and write permissions** and click **Save**
 
